@@ -1,0 +1,39 @@
+.dataframe {
+  margin-left: auto;
+  margin-right: auto;
+  color: #451804;
+  background-color: #f0e7e7
+}
+
+img.featured {
+    max-width:450px;
+    height:auto; 
+}
+
+img.hemisphere {
+  max-width:325px;
+  height:auto; 
+}
+
+body {
+  background-color: #c1440e;
+  color:#f0e7e7
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #e77d11;
+  border-color:  #e77d11; 
+}
+
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #fda600;
+  border-color: #fda600;
+}
+
+.jumbotron {
+  background-color: #451804;
+  color:#fff;
+}
